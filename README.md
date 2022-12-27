@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Roykahu
-- 👀 I’m interested in data scienc
+- 👀 I’m interested in data science
 
 <!---
 Roykahu/Roykahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
